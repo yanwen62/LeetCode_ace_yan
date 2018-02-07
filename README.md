@@ -1,2 +1,2 @@
 # LeetCode_ace_yan
-My coding practice in LeetCode
+My coding practice in LeetCode.
